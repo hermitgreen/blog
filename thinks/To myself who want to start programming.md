@@ -10,8 +10,7 @@
 
 ## 用熟一种编辑器,加快自己的coding速度
 
-- Visual studio code
-- Vim
+- Visual Studio Code
 - Typora
 
 ## 学习Linux,Shell和脚本编程
@@ -19,12 +18,12 @@
 现在开始要减少使用windows了！
 
 - Linux
+- Shell
 
 ## 学习前端知识
 
 - JavaScript
 - HTML和CSS
-- Vue.js
 
 ## 学习后端知识,学会整理博客,了解Git和 GitHub
 
